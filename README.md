@@ -11,4 +11,4 @@ Try it here: https://itsonlythebeginning.github.io/evklid-2/
 (with adaptive)
 
 
-![evklid_screen](https://github.com/itsonlythebeginning/evklid-2/assets/107440223/4699819d-6199-4474-a602-51e29a1a2152)
+![evklid_screen](https://github.com/itsonlythebeginning/evklid-2/assets/107440223/fe1ea049-8270-4bce-8517-095af350b859)
